@@ -1,0 +1,32 @@
+{
+  "name": "aimr",
+  "version": "1.0.0",
+  "description": "AI aimbot",
+  "scripts": {
+    "start": "python aimr.py"
+  },
+  "dependencies": {
+    "typer": "latest",
+    "numpy": "latest", 
+    "pillow": "latest",
+    "pywin32": "latest",
+    "requests": "latest",
+    "pypresence": "latest",
+    "pystyle": "latest",
+    "pyserial": "latest",
+    "keyboard": "latest",
+    "pyfiglet": "latest",
+    "pynput": "latest",
+    "pyperclip": "latest",
+    "bettercam": "latest",
+    "colorama": "latest",
+    "pyautogui": "latest",
+    "urllib3": "latest",
+    "customtkinter": "latest",
+    "CTkToolTip": "latest",
+    "CTkColorPicker": "latest",
+    "opencv-python": "latest",
+    "pyscreeze": "latest",
+    "deep_translator": "latest"
+  }
+}
